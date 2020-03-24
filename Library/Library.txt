@@ -1,0 +1,30 @@
+1. Why smart people have bad ideas? Make something people want!
+- Is this something people will pay for?
+- Gradually it dawned on us that instead of trying to make Web sites for people
+who didn't want them, we could make sites for people who did.
+- If you're going to spend years working on something, you'd think it might be wise
+to spend at least a couple days considering different ideas,
+instead of going with the first that comes into your head.
+- Part of the problem is that big projects tend to grow out of small ones.
+- Unpleasant work pays => Supply and demand
+- The most extreme case is developing programming languages, which doesn't pay at all,
+ because people like it so much they do it for free.
+- The purpose of a company, and a startup especially, is to make money
+- In fact there is no such thing as "business."
+There's selling, promotion, figuring out what people want, deciding how much to charge,
+customer support, paying your bills, getting customers to pay you, getting incorporated,
+raising money, and so on.
+- How to win friends: how to see things from other people's point of view,
+instead of thinking only of yourself.
+
+2. Startup ideas:
+- The fact is, most startups end up nothing like the initial idea.
+It would be closer to the truth to say the main value of your initial idea is that,
+in the process of discovering it's broken, you'll come up with your real idea.
+
+- Treating a startup idea as a question changes what you're looking for.
+If an idea is a blueprint, it has to be right. But if it's a question, it can be wrong,
+so long as it's wrong in a way that leads to more ideas.
+
+- The opposite extreme would be a well-paying but boring job at a big company.
+Big companies are biased against new technologies, and the people you'd meet there would be wrong too

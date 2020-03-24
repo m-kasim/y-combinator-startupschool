@@ -1,0 +1,55 @@
+02. How to talk to users
+
+https://www.youtube.com/watch?v=MT4Ig2uqjTc
+
+0. General:
+- The best founders maintain direct connection to users for lifetime
+- You cannot outsource talking to customers
+- The engineers have to know what the users want
+
+1. User interview:
+- Do not pitch the product
+- Do not talk about "what it could be?"
+- Talk about things which already exist and the users have experienced
+- Learn about their motivations
+
+2. 5 great questions to users:
+[1] What is the hardest part? What is the user's pain point?
+
+[2] Tell me about the last time you had this problem?
+
+[3] Why was that hard?
+*) Customers will buy something which SOLVES A PROBLEM
+
+[4] What have you tried to solve the problem?
+*) If the user has not tried something else to solve the problem, perhaps this is not a painful enough problem...
+*) Is the user already trying to solve the problem actively?
+
+[5] What don't you love about the current solution you have tried? => REQUESTED FEATURES
+
+3. Talking to users is useful at all stages:
+[1]: Got idea?          Find users with this problem!
+- talk to yourself, friends, co-workers
+- just show up and talk to people
+- keep notes, be casual, respect their time
+
+[2]: Build prototype?   Best firs customer!
+- How much does this problem cost them?
+- How frequent the problem occurs?
+- How large is their budget?
+
+[3]: Launched?          Find product-market fit!
+
+4. FIGURE OUT YOUR BEST FIRST CUSTOMER!
+
+5. PRODUCT MARKET FIT:
+- When you no longer need to PUSH the product. PEOPLE WANT IT THEMSELVES!
+- People MUST WANT TO PAY your product
+- HOW WOULD YOU FEEL IF YOU CAN NO LONGER USE THE PRODUCT? Not good, Terrible, N/A.
+
+6. Other:
+- Phone contact is useful when signing up - you can talk to them directly
+- Don't ask users directly "What do you want?"
+- "Pay 5$ more, if you want this feature on your account" even before the feature is ever done to figure out who really wants it
+- Discard compliments, they are not useful!
+- Avoid unspecific things

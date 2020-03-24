@@ -1,0 +1,45 @@
+How to Evaluate Startup Ideas
+
+0. General:
+- YCombinator does fund startups with low or no revenue (just idea)
+- Reddit was funded by YCombinator (without a single line of code)
+
+1. How you will become a big company (1B)?
+- Startup = Grow very quickly
+- Investors want companies with evidence that it can grow quickly
+- The investor bets are the ones which are not obvious
+- startup idea = hypothesis why a company can grow quickly
+- do not overdescribe parts
+
+2. How to evaluate a startup:
+
+- [PROBLEM]: What is the setting for the problem?
+*) good problems are popular (growing market, at least 1M users)
+*) growing (+20% a year)
+*) expensive to solve (where the law has changed)
+*) mandatory
+*) urgent
+*) frequent
+
+- [SOLUTION]: What is the solution within this environment?
+*) DO NOT START WITH THE SOLUTION. START WITH THE PROBLEM! (find a way to apply blockchain?!)
+
+- [WHY]
+*) Why is this solution going to work?
+*) What is your unfair advantage?
+*) It has to be related to growth
+*) You need why.
+
+3. Types of unfair advantages:
+    1. Founders:    One of the few people that can solve the problem
+    2. Market:      Grows 20%
+    3. Product:     Your product is 10X better/cheaper than alternatives
+    4. Acquisition: If you can get only customers through paid Ads, this advantage is going to dwindle when competitors come
+                    Word-of-mouth: You have to acquire customers without paying for getting them
+    5. Monopoly:    Do you have a monopoly? Can competitors defeat you?
+    *) marketplace:     the first who does it wins all
+    *) network-effect:  the company gets stronger, as the market grows
+
+4. Beliefs:
+- Can the team build/do the product?
+- How well you can do sales/convince people?
