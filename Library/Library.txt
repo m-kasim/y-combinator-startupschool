@@ -28,3 +28,25 @@ so long as it's wrong in a way that leads to more ideas.
 
 - The opposite extreme would be a well-paying but boring job at a big company.
 Big companies are biased against new technologies, and the people you'd meet there would be wrong too
+
+- I don't think people consciously realize this, but one reason downwind jobs like churning out Java
+for a bank pay so well is precisely that they are downwind.
+The market price for that kind of work is higher because it gives you fewer options for the future.
+A job that lets you work on exciting new stuff will tend to pay less, because part of the compensation
+is in the form of the new skills you'll learn.
+
+- Even Einstein needed people to bounce ideas off.
+
+- This is one reason Y Combinator has a rule against investing in startups with only one founder.
+Practically every successful company has at least two.
+And because startup founders work under great pressure, it's critical they be friends.
+
+- One of the most useful mental habits I know I learned from Michael Rabin:
+that the best way to solve a problem is often to redefine it.
+You need a big prime number? Those are pretty expensive.
+How about if I give you a big number that only has a 10 to the minus 100 chance of not being prime?
+Would that do? Well, probably; I mean, that's probably smaller than the chance that I'm imagining all this anyway.
+
+- Complications lead to Death.
+
+- A free market interprets monopoly as damage and routes around it
