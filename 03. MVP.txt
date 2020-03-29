@@ -1,0 +1,46 @@
+MVP: How to Plan an MVP
+https://www.youtube.com/watch?v=1hHMwLxN6EM
+
+0. General:
+- Give users something very simple, and see if they use it at all (if they see any value in it)
+- Avoid 3 years of research and development
+- Mysterious users: If you are building something for a "mysterious user"... think again!
+- BIG VISION and SMALL MVP
+- VP and Investor pitches should be different
+
+1. MVP: DOES IT SOLVE THE PROBLEM I WANT IT TO SOLVE?
+- VALIDATE EARLY: LAUNCH SOMETHING QUICKLY!
+- GET SOME INITIAL CUSTOMERS (ANYONE) - many failed startups fail to interact with any users at all
+- AGAIN, TALK TO USERS and GET FEEDBACK
+- You can talk to customer all day, but without a product, you can't learn anything
+- Rarely a product is what the initial vision was
+- Never ask users for features or what they want.
+- Ask them for their problems. You have to figure out what fixes them
+- Do they want to pay for the feature?
+- People wont stop using the product if it's good
+
+2. LEAN MVP:
+- Startup page and a Spreadsheet
+- GET THERE FAST
+- Only the most important thing
+
+- Stripe, AirBnB and Twitch (Justin.tv) had very bad initial versions, but they had traction!
+- Stripe founders came to the office of first clients and integrated it for them (because they had no product)
+
+3. Heavy MVP:
+- Regulation: If a lot of regulation is required
+- Hard-tech / Moonshots: Rockets or infrastructure or etc.
+- In these cases => build a website which tells what you do
+
+4. Launches:
+- No one remembers when Google, Twitter, Facebook launched
+- It's all about having paying customers!
+
+5. Hacks:
+- Timebox things
+- Write down your specification
+- Remove unneeded features
+
+6. PRODUCT <-> MARKET FIT:
+- [definition]: the moment you no longer search for users or optimize the product, but actually you have _too many_ users
+- few startups gets product-market fit
